@@ -4,6 +4,27 @@ Uma plataforma moderna de gestão escolar desenvolvida para digitalizar e centra
 
 O objetivo é disponibilizar uma solução completa que substitua vários sistemas isolados, oferecendo uma experiência intuitiva para alunos, encarregados de educação, professores, secretaria e direção.
 
+## 📸 Screenshots
+
+| Landing Page | Login |
+|-------------|-------|
+| ![Landing Page](docs/images/landing-page.png) | ![Login](docs/images/login.png) |
+
+| Dashboard Admin | Gestão de Utilizadores |
+|-----------------|------------------------|
+| ![Dashboard Admin](docs/images/dashboard-admin.png) | ![Gestão de Utilizadores](docs/images/gestao-utilizadores.png) |
+
+| Dashboard Professor | Dashboard Encarregado |
+|---------------------|------------------------|
+| ![Dashboard Professor](docs/images/dashboard-professor.png) | ![Dashboard Encarregado](docs/images/dashboard-encarregado.png) |
+
+| Dashboard Aluno | Gestão de Turmas |
+|-----------------|------------------|
+| ![Dashboard Aluno](docs/images/dashboard-aluno.png) | ![Gestão de Turmas](docs/images/turmas.png) |
+
+| Horários | Refeitório |
+|----------|------------|
+| ![Horários](docs/images/horarios.png) | ![Refeitório](docs/images/refeitorio.png) |
 ---
 
 # ✨ Funcionalidades
